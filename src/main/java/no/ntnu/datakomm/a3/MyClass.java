@@ -7,7 +7,7 @@ package no.ntnu.datakomm.a3;
 public class MyClass {
 
     private static void feature1() {
-        // TODO - print "
+        System.out.println("Feature 1 initialized...");
     }
 
     private static void feature2() {
