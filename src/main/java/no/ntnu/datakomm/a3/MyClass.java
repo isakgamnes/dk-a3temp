@@ -18,8 +18,9 @@ public class MyClass {
         System.out.print("Feature #3");
     }
 
-    private static void feature4() {
-        // TODO - print "Feature #4"
+    private static void feature4()
+    {
+        System.out.println("Feature 4 implemented");
     }
 
     private static void feature5() {
